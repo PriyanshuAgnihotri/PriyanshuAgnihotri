@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Project Management , Advance ML and Data Analytics.**
 
 - 📫 How to reach me **priyanshuagnihotri1911@gmail.com**
-  <!--<img align ="right" alt="coding" width="400" src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611es71s8pimsnz0owxcsj3tr3a6hc6m3b7q1uv1dyk&ep=v1_gifs_search&rid=giphy.gif&ct=g.gif">
+  <!--<img align ="right" alt="coding" width="400" src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?cid=790b7611es71s8pimsnz0owxcsj3tr3a6hc6m3b7q1uv1dyk&ep=v1_gifs_search&rid=giphy.gif&ct=g.gif">-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyanshu agnihotri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu agnihotri" height="30" width="40" /></a>
